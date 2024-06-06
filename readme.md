@@ -5,7 +5,7 @@ Oke gaesh? <br></p>
 
 
 ## How to Use
-<img src=./pic%20readme/bear1.png width="100" alt="bear"></img>
+<img src=./W0%20Test/pic%20readme/bear1.png width="100" alt="bear"></img>
 <p>Bite Me!</p>
 
 ### Contact Me
